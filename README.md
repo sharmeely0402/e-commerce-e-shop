@@ -13,7 +13,7 @@
 * Add products to cart
 * Submit product ratings (only if purchased)
 
-### **Admin Features (Optional)**
+### **Admin Features **
 
 * Add, edit, and delete products
 * View all orders
